@@ -11,8 +11,8 @@
 </ul>
 <h4>Скриншоты</h4>
 <p>
-<img src="/screens/light_mode.jpg" alt="Светлый режим" height="600">
-<img src="/screens/dark_mode.jpg" alt="Темный режим" height="600">
-<img src="/screens/bottom_list.jpg" alt="Список снизу" height="600">
-<img src="/screens/bottom_tabs.jpg" alt="Вкладки снизу" height="600">
+<img src="/screens/light_mode.jpg" alt="Светлый режим" height="600" hspace="8">
+<img src="/screens/dark_mode.jpg" alt="Темный режим" height="600" hspace="8">
+<img src="/screens/bottom_list.jpg" alt="Список снизу" height="600" hspace="8">
+<img src="/screens/bottom_tabs.jpg" alt="Вкладки снизу" height="600" hspace="8">
 </p>
