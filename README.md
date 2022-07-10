@@ -10,3 +10,4 @@
 подразумевает, что вы знаете как запустить приложение в Android Studio.</li>
 </ul>
 <h4>Скриншоты</h4>
+<img src="/screens/light_mode.jpg" alt="Светлый режим" height="600" hspace="16">
