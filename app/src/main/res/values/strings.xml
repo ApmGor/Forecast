@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="icon_search_desc">Кнопка поиска</string>
+    <string name="icon_settings_desc">Кнопка настроек</string>
+    <string name="search_placeholder">Поиск по названию города</string>
+    <string name="icon_search_result_desc">Результат поиска</string>
+    <string name="icon_gps_desc">Найти местоположение с помощью GPS</string>
+    <string name="icon_back_arrow_desc">Вернуться назад</string>
+    <string name="icon_clear_text_field_desc">Очистить поле поиска</string>
+    <string name="weather_image">Изображение погоды</string>
+    <string name="prefix_api_error">Ошибка доступа к API:</string>
+    <string name="empty_search_result">Ничего не найдено</string>
+    <string name="no_gps_error_desc">Включите GPS</string>
+    <string name="temp_unit_desc">Температура</string>
+    <string-array name="temp_units">
+        <item>C</item>
+        <item>F</item>
+    </string-array>
+    <string name="wind_unit_desc">Скорость ветра</string>
+    <string-array name="wind_units">
+        <item>м/с</item>
+        <item>км/ч</item>
+        <item>ми/ч</item>
+    </string-array>
+    <string name="pressure_unit_desc">Давление</string>
+    <string-array name="pressure_units">
+        <item>гПа</item>
+        <item>мм. рт. ст.</item>
+    </string-array>
+    <string name="precip_unit_desc">Осадки</string>
+    <string-array name="precip_units">
+        <item>мм</item>
+        <item>\u2033</item>
+    </string-array>
+    <string name="dist_unit_desc">Расстояние</string>
+    <string-array name="dist_units">
+        <item>км</item>
+        <item>ми</item>
+    </string-array>
+    <string name="time_unit_desc">Формат времени</string>
+    <string name="title_settings_screen">Настройки</string>
+    <string name="title_alerts_screen">Предупреждения</string>
+    <string-array name="time_units">
+        <item>24-часа</item>
+        <item>12-часов</item>
+    </string-array>
+    <string-array name="wind_names">
+        <item>Штиль</item>
+        <item>Легкий ветерок</item>
+        <item>Легкий бриз</item>
+        <item>Нежный бриз</item>
+        <item>Умеренный бриз</item>
+        <item>Бодрящий бриз</item>
+        <item>Сильный бриз</item>
+        <item>Умеренная буря</item>
+        <item>Бодрящая буря</item>
+        <item>Сильная буря</item>
+        <item>Тотальная буря</item>
+        <item>Шторм</item>
+        <item>Ураган</item>
+    </string-array>
+    <string-array name="wind_directions">
+        <item>С</item>
+        <item>ССВ</item>
+        <item>СВ</item>
+        <item>ВСВ</item>
+        <item>В</item>
+        <item>ВЮВ</item>
+        <item>ЮВ</item>
+        <item>ЮЮВ</item>
+        <item>Ю</item>
+        <item>ЮЮЗ</item>
+        <item>ЮЗ</item>
+        <item>ЗЮЗ</item>
+        <item>З</item>
+        <item>ЗСЗ</item>
+        <item>СЗ</item>
+        <item>ССЗ</item>
+    </string-array>
+    <string name="chart_legend_name">Осадки, %1$s</string>
+    <string-array name="cart_x_labels">
+        <item>сейчас</item>
+        <item>15мин</item>
+        <item>30мин</item>
+        <item>45мин</item>
+        <item>60мин</item>
+    </string-array>
+    <string name="no_precipitation">В течении данного часа не будет осадков</string>
+    <string name="full_hour_precipitation">Осадки продлятся весь час</string>
+    <plurals name="number_of_minutes_1">
+        <item quantity="one">Осадки продлятся еще %d минуту</item>
+        <item quantity="few">Осадки продлятся еще %d минуты</item>
+        <item quantity="other">Осадки продлятся еще %d минут</item>
+    </plurals>
+    <plurals name="number_of_minutes_2">
+        <item quantity="one">Осадки начнутся через %d минуту</item>
+        <item quantity="few">Осадки начнутся через %d минуты</item>
+        <item quantity="other">Осадки начнутся через %d минут</item>
+    </plurals>
+    <string name="current_temp">%1$d°%2$s</string>
+    <string name="current_feel_like">Ощущается как %1$d°%2$s</string>
+    <string name="current_wind">Ветер: %1$.1f%2$s %3$s</string>
+    <string name="current_pressure">Давление: %1$d%2$s</string>
+    <string name="current_humidity">Влажность: %1$d%%</string>
+    <string name="current_visibility">Видимость: %1$.1f%2$s</string>
+    <string name="current_uvi">УФ-индекс: %1$.1f</string>
+    <string name="current_dew_point">Tочка росы: %1$d°%2$s</string>
+    <string name="emblem_of_roshydromet">Эмблема Росгидромета</string>
+    <string name="sunset_desc">Закат</string>
+    <string name="sunrise_desc">Рассвет</string>
+    <string name="arrow_wind_direction">Стрелка направления ветра</string>
+    <string name="icon_close_daily_add_info">Закрыть дополнительную иформацию</string>
+    <string name="daily_precipitation">Осадки</string>
+    <string name="daily_pop">Вероятность осадков</string>
+    <string name="daily_wind">Ветер</string>
+    <string name="daily_pressure">Давление</string>
+    <string name="daily_humidity">Влажность</string>
+    <string name="daily_uvi">УФ-индекс</string>
+</resources>
